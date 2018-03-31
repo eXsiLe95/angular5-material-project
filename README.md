@@ -1,6 +1,6 @@
 # MaterialApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3. It includes [@angular/material](https://material.angular.io/). For a list of supported components see [Angular Material Components](https://material.angular.io/components/categories). Material Icons are also available, if an active internet connection exists.
 
 ## Development server
 
